@@ -36,7 +36,7 @@ Work experience
   * Duties included: Cooking for myself
   * Supervisor: Jiaheng Guo
 
-* Summer and Winter 2022 - 2025: Pet Sitter Intern
+* All Summers and Winters from 2023 to 2025: Pet Sitter Intern
   * My Home University
   * Duties included: Taking care of the cat raised by my parents
   * Supervisor: My Parents
