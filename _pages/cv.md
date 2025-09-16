@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,7 +50,7 @@ Skills
   * CUDA
 * Cook 
   * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
-  * The Ultimate Secret: Add more ingredients
+  * The Ultimate Secret: You should add more ingredients
 * Pet Sitting
   * I gave my parents' cat a lot of food and it gained a lot of weight
   * Cats love ice cream
@@ -71,8 +71,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Service and leadership
-======
-* 
+====== -->
+
