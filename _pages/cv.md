@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistics and Data Science, University of North Carolina at Chapel Hill, 2027 (expected)
+* B.E. in Artificial Intelligence, Nanjing University, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+<!-- * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,18 +29,33 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  * Supervisor: Professor Git -->
+
+* Fall 2025 - Present: Full-time Cook
+  * University of Kitchen Technology
+  * Duties included: Cooking for myself
+  * Supervisor: Jiaheng Guo
+
+* Summer and Winter 2022 - 2025: Pet Sitter Intern
+  * My Home University
+  * Duties included: Taking care of the cat raised by my parents
+  * Supervisor: My Parents
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * PyTorch
+  * TensorFlow
+* C++
+  * CUDA
+* Cook 
+  * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
+  * The Ultimate Secret: Add more ingredients
+* Pet Sitting
+  * I gave my parents' cat a lot of food and it gained a lot of weight
+  * Cats love ice cream
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,8 +71,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
