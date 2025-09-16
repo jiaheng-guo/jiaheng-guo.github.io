@@ -50,7 +50,7 @@ Skills
   * CUDA
 * Cook 
   * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
-  * The Ultimate Secret: You should add more ingredients
+  * The Ultimate Secret: You should add more seasonings
 * Pet Sitting
   * I gave my parents' cat a lot of food and it gained a lot of weight
   * Cats love ice cream
