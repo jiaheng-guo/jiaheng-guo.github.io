@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: ""
 permalink: /cv-json/
 author_profile: false
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -46,11 +46,14 @@ Skills
 * Python
   * PyTorch
   * TensorFlow
+
 * C++
   * CUDA
+
 * Cooking
   * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
   * The Ultimate Secret: You should add more seasonings
+
 * Pet Sitting
   * I gave my parents' cat a lot of food and it gained a lot of weight
   * Cats love ice cream
