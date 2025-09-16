@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red">🚧 UNDER CONSTRUCTION 🚧</font>
+<font color="red">🚧 THIS SITE IS <b>UNDER CONSTRUCTION</b> 🚧</font>
 
 Hi! I am Jiaheng Guo, a first-year MS student at STOR department, UNC Chapel Hill. I am interested in everything including AI, cooking, cats, and you.
 
