@@ -48,7 +48,7 @@ Skills
   * TensorFlow
 * C++
   * CUDA
-* Cook 
+* Cooking
   * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
   * The Ultimate Secret: You should add more seasonings
 * Pet Sitting
