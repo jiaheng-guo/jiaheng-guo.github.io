@@ -31,7 +31,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
-* Fall 2025 - Present: Full-time Cook
+* Fall 2025 - Present: Part-time Cook
   * University of Kitchen Technology
   * Duties included: Cooking for myself
   * Supervisor: Jiaheng Guo
