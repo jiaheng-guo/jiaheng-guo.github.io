@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Statistics and Data Science, University of North Carolina at Chapel Hill, 2027 (expected)
-* B.E. in Artificial Intelligence, Nanjing University, 2025
+* B.Eng. in Artificial Intelligence, Nanjing University, 2025
 
 Work experience
 ======
