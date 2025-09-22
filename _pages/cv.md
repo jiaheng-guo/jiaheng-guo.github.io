@@ -32,13 +32,13 @@ Work experience
   * Supervisor: Professor Git -->
 
 * Fall 2025 - Present: Part-time Cook
-  * University of Kitchen Technology
+  * Kitchen Institute of Technology (KIT)
   * Duties included: Cooking for myself
   * Supervisor: Jiaheng Guo
 
 * All Summers and Winters from 2023 to 2025: Pet Sitter Intern
-  * My Home University
-  * Duties included: Taking care of the cat raised by my parents
+  * Guo University (GU)
+  * Duties included: Taking care of my parents' cat
   * Supervisor: My Parents
 
 Skills
@@ -51,11 +51,11 @@ Skills
   * CUDA
 
 * Cooking
-  * Baked Potato, Beef with Tomato, Scrambled Eggs, Boiled Water, etc.
+  * Baked potato, Beef with tomato, Scrambled eggs, Boiled water, etc.
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
-  * I gave my parents' cat a lot of food and it gained a lot of weight
+  * I fed my parents' cat with a lot of food and it gained a lot of weight
   * Cats love ice cream
 
 <!-- Publications
