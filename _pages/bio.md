@@ -32,12 +32,12 @@ Work experience
   * Supervisor: Professor Git -->
 
 * Fall 2025 - Present: Part-time Cook
-  * Kitchen Institute of Technology (KIT)
+  * Kitchen Institute of Technology
   * Duties included: Cooking for myself
   * Supervisor: Jiaheng Guo
 
 * All Summers and Winters from 2023 to 2025: Pet Sitter Intern
-  * Guo University (GU)
+  * Guo University
   * Duties included: Taking care of my parents' cat
   * Supervisor: My Parents
 
