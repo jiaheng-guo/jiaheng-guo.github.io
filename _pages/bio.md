@@ -38,7 +38,7 @@ Work experience
 
 * All Summers and Winters from 2023 to 2025: Pet Sitter Intern
   * Guo University
-  * Duties included: Taking care of my parents' cat
+  * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
 Skills
@@ -55,8 +55,8 @@ Skills
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
-  * I fed my parents' cat with a lot of food and it gained a lot of weight
-  * Cats love ice cream
+  * I fed Lil Mi with a lot of food and it gained a lot of weight (previous ![1](images/IMG_2843.png) ![2](images/IMG_2574.png) $\to$ current ![3](images/IMG_0742.png) ![4](images/IMG_1533.png)) ![5](images/IMG_1365.png)
+  * Cats love ice cream`
 
 <!-- Publications
 ======
