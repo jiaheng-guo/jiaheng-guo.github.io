@@ -55,7 +55,7 @@ Skills
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
-  * I fed Lil Mi with a lot of food and it gained a lot of weight (previous ![1](../images/IMG_2843.png) ![2](../images/IMG_2574.png) $\to$ current ![3](../images/IMG_0742.png) ![4](../images/IMG_1533.png)) ![5](../images/IMG_1365.png)
+  * I fed Lil Mi with a lot of food and it gained a lot of weight (previous ![1](../images/IMG_2843.png){: width="200px"} ![2](../images/IMG_2574.png){: width="200px"} to current ![3](../images/IMG_0742.png){: width="200px"} ![4](../images/IMG_1533.png){: width="200px"} ![5](../images/IMG_1365.png){: width="200px"})
   * Cats love ice cream`
 
 <!-- Publications
