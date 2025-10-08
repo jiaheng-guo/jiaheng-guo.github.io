@@ -55,7 +55,29 @@ Skills
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
-  * I fed Lil Mi with a lot of food and it gained a lot of weight (previous ![1](../images/IMG_2843.png){: width="200px"} ![2](../images/IMG_2574.png){: width="200px"} to current ![3](../images/IMG_0742.png){: width="200px"} ![4](../images/IMG_1533.png){: width="200px"} ![5](../images/IMG_1365.png){: width="200px"})
+  * I fed Lil Mi with a lot of food and it gained a lot of weight
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <figure style="text-align:center;">
+    <img src="../images/IMG_2843.png" width="180px">
+    <figcaption>Before ①</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="../images/IMG_2574.png" width="180px">
+    <figcaption>Before ②</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="../images/IMG_0742.png" width="180px">
+    <figcaption>After ①</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="../images/IMG_1533.png" width="180px">
+    <figcaption>After ②</figcaption>
+  </figure>
+  <figure style="text-align:center;">
+    <img src="../images/IMG_1365.png" width="180px">
+    <figcaption>After ③</figcaption>
+  </figure>
+  </div>
   * Cats love ice cream
 
 <!-- Publications
