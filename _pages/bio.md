@@ -56,28 +56,32 @@ Skills
 
 * Pet Sitting
   * I fed Lil Mi with a lot of food and it gained a lot of weight
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align:center;">
-    <img src="../images/IMG_2843.png" width="180px">
-    <figcaption>Before ①</figcaption>
+    <img src="../images/IMG_2843.png" width="120" height="120" style="object-fit: cover; border-radius: 8px;">
+    <figcaption>Before 1</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="../images/IMG_2574.png" width="180px">
-    <figcaption>Before ②</figcaption>
+    <img src="../images/IMG_2574.png" width="120" height="120" style="object-fit: cover; border-radius: 8px;">
+    <figcaption>Before 2</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="../images/IMG_0742.png" width="180px">
-    <figcaption>After ①</figcaption>
+    <img src="../images/IMG_0742.png" width="120" height="120" style="object-fit: cover; border-radius: 8px;">
+    <figcaption>After 1</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="../images/IMG_1533.png" width="180px">
-    <figcaption>After ②</figcaption>
+    <img src="../images/IMG_1533.png" width="120" height="120" style="object-fit: cover; border-radius: 8px;">
+    <figcaption>After 2</figcaption>
   </figure>
+
   <figure style="text-align:center;">
-    <img src="../images/IMG_1365.png" width="180px">
-    <figcaption>After ③</figcaption>
+    <img src="../images/IMG_1365.png" width="120" height="120" style="object-fit: cover; border-radius: 8px;">
+    <figcaption>After 3</figcaption>
   </figure>
-  </div>
+</div>
   * Cats love ice cream
 
 <!-- Publications
