@@ -55,7 +55,7 @@ Skills
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
-  * I fed Lil Mi with a lot of food and it gained a lot of weight
+  * I fed Lil Mi with a lot of food and she gained a lot of weight
   <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align:center;">
     <img src="../images/IMG_2843.png" width="120" style="object-fit: cover; border-radius: 8px;">
