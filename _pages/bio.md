@@ -59,23 +59,23 @@ Skills
   * I fed Lil Mi with a lot of food and she gained a lot of weight
   <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align:center;">
-    <img src="../images/IMG_2843.png" style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="../images/IMG_2843.png" style="width: 180px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>Before 1</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_2574.png" style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="../images/IMG_2574.png" style="width: 180px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>Before 2</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_0742.png" style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="../images/IMG_0742.png" style="width: 180px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 1</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_1533.png" style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="../images/IMG_1533.png" style="width: 180px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 2</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_1365.png" style="width: 120px; height: 120px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="../images/IMG_1365.png" style="width: 180px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 3</figcaption>
   </figure>
   </div>
