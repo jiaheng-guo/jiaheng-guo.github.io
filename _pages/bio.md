@@ -46,12 +46,13 @@ Skills
 * Python
   * PyTorch
   * TensorFlow
+  * LangChain
 
 * C++
   * CUDA
 
 * Cooking
-  * Baked potato, Beef with tomato, Scrambled eggs, Boiled water, etc.
+  * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
   * The Ultimate Secret: You should add more seasonings
 
 * Pet Sitting
