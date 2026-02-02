@@ -68,7 +68,7 @@ Skills (Non-academic) and Hobbies
 * Music
   * I play the clarinet (level 10)
   * For pop music, since I am a Riot Games fan, I truly enjoy their music. Some of my favorites are
-    * [His Name is Sahn-Uzal](https://www.youtube.com/watch?v=V-iBklZUq-k&t=3) feat. Radik Tyulyush
-    * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) feat. King Princess
-    * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) feat Qing Madi
+    * [His Name is Sahn-Uzal](https://www.youtube.com/watch?v=V-iBklZUq-k&t=3) ft. Radik Tyulyush
+    * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) ft. King Princess
+    * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) ft. Qing Madi
   * I enjoy legendary Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
