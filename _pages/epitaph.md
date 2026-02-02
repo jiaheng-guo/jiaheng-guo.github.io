@@ -11,9 +11,9 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
-  <img src="../images/photography/epitaph/parents1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Epitaph/parents1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/epitaph/parents2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Epitaph/parents2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
