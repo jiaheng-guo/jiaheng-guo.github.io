@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I am Jiaheng Guo, a first-year M.S. student in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill. I received my B.Eng. degree in Artificial Intelligence from Nanjing University in 2025.
 
-I am interested in everything including AI, cooking, cats, and you, my friend. Currently, I am an intern at Professor Tianlong Chen's research group, the [UNITES Lab](https://unites-lab.github.io/group.html), at UNC CS department, where I am working on LLM agents, AI4Healthcare, and AI4Genomics projects.
+I am interested in everything including AI, cooking, cats, and you, my friend. Currently, I am an intern at Professor Tianlong Chen's research group, the [UNITES Lab](https://unites-lab.github.io), at UNC CS department, where I am working on LLM agents, AI4Healthcare, and AI4Genomics projects.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
