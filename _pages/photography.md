@@ -115,10 +115,10 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Travel/Xinjiang/Altay2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Travel/Xinjiang/Altay5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Travel/Xinjiang/Altay4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Xinjiang/Altay7.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
@@ -133,13 +133,16 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Travel/Xinjiang/Altay11.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay12.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
-</div>
-<div style="width: 260px;">
   <img src="../images/photography/Travel/Xinjiang/Altay13.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
+  <img src="../images/photography/Travel/Xinjiang/Altay12.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+</div>
+<div style="width: 260px;">
   <img src="../images/photography/Travel/Xinjiang/Koktokay2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+</div>
+<div style="width: 260px;">
+  <img src="../images/photography/Travel/Xinjiang/Urumqi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Xinjiang/Koktokay3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
@@ -164,9 +167,6 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Xinjiang/Urumqi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
-</div>
-<div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Urumqi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
 
@@ -201,9 +201,6 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Travel/Yunnan/Kunming1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Lijiang1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
-</div>
-<div style="width: 260px;">
   <img src="../images/photography/Travel/Yunnan/Shangri-La1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
@@ -211,5 +208,8 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Yunnan/Shangri-La3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+</div>
+<div style="width: 260px;">
+  <img src="../images/photography/Travel/Yunnan/Lijiang1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
