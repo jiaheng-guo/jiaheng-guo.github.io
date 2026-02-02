@@ -3,8 +3,8 @@ layout: archive
 title: ""
 permalink: /bio/
 author_profile: true
-# redirect_from:
-#   - /resume
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
@@ -15,12 +15,15 @@ Education
 * B.Eng. in Artificial Intelligence, Nanjing University, 2025
 
 
-Work Experiences
+Experience
 ======
-None
+* Aug., 2025 - Present: Research Intern, UNITES Lab, UNC Chapel Hill
+  * Advisor: Prof. Tianlong Chen
+  * Working on LLM agents, AI4Healthcare, and AI4Bio projects.
 
 
-Skills
+
+<!-- Skills
 ======
 * Python
   * PyTorch
@@ -28,7 +31,9 @@ Skills
   * LangChain
 
 * C++
-  * CUDA
+  * CUDA -->
+
+
 
 <!-- Publications
 ======

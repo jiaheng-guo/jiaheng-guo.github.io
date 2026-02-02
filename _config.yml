@@ -38,8 +38,7 @@ author:
   googlescholar    : # TODO
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0001-2906-2606"
-  semantic         : # URL
+  orcid            : # URL
   pubmed           : # TODO
   researchgate     : # URL
   scopus           : # URL
@@ -71,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "henryguo0922" # Username for X / Twitter
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
