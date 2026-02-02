@@ -16,9 +16,8 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mixi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Cats/mi5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
-
 <div style="width: 260px;">
   <img src="../images/photography/Cats/mi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
@@ -26,10 +25,10 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Cats/mi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Cats/mixi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="../images/photography/Cats/mi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
   <img src="../images/photography/Cats/mi6.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
