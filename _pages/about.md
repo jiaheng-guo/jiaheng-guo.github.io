@@ -9,13 +9,12 @@ redirect_from:
 
 <!-- <font color="red">🚧 THIS SITE IS <b>UNDER CONSTRUCTION</b> 🚧</font> -->
 
-Hi! I am Jiaheng Guo, a first-year M.S. student in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill. I received my B.Eng. degree in Artificial Intelligence from Nanjing University in 2025.
-
-I am interested in everything including AI, cooking, cats. Currently, I am an intern at Professor Tianlong Chen's research group, the [UNITES Lab](https://unites-lab.github.io), at UNC CS department, where I am working on LLM agents, AI4Healthcare, and AI4Bio projects.
+I am a first-year M.S. student in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), where I am fortunate to have the opportunity to work with Professor [Tianlong Chen](https://tianlong-chen.github.io/). I received my B.Eng. degree in [Artificial Intelligence](https://ai.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/en/) in 2025.
 
 
 <!-- <b><font color="green">[STATUS]</font></b>  -->
-News and Updates
+
+News
 ======
 * Aug., 2025: <b><font color="green">[STATUS]</font></b> Started my M.S. program at UNC Chapel Hill and joined the UNITES Lab as an intern
 
