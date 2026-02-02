@@ -11,7 +11,7 @@ More About Me
 ======
 My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamiliar with Chinese names, you can call me Henry for convenience.
 
-Experiences (Non-academic)
+Experiences
 ======
 * Fall 2025 - Present: Part-time Cook
   * Kitchen Institute of Technology
@@ -23,7 +23,7 @@ Experiences (Non-academic)
   * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
-Skills (Non-academic)
+Skills
 ======
 * Cooking
   * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
