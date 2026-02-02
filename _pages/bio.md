@@ -81,6 +81,16 @@ Skills
   </figure>
   </div>
 
+* Games 
+  * League of Legends (ARAM main, Best Solo/Duo Performance: Gold 4, Used to be a Yasuo King but now I am old)
+  * Teamfight Tactics (Grandmaster for multiple seasons)
+  * Clash of Clans (Achieved Rank #11,693 on the Chinese server)
+  * Valorant (0/13 K\O)
+  * PUBG: Battlegrounds (2x Winner Winner Chicken Dinner with 0 kills)
+
+* Photography
+  * I take photo during trips and daily life: [Photography page](/photography/)
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
