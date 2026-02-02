@@ -9,17 +9,19 @@ author_profile: true
 
 I am not a professional photographer, but I enjoy recording the fleeting moments of life. Here are some of my favorite shots.
 
-<!-- <font color="red">*Warning: the following photos are of high resolution. Loading them may consume significant memory and bandwidth.*</font> -->
-
 ## Cats
 
 The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cute and chubby. The white cat with blue and orange eyes, Sixi, was my friend's cat. She was clever and energetic.
+
+<details style="margin: 8px 0 16px 0;">
+<summary style="cursor: pointer; font-size: 0.95em;">Show cat photos</summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 
 <div style="width: 260px;">
   <img src="../images/photography/Cats/mi5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
+
 <div style="width: 260px;">
   <img src="../images/photography/Cats/mi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
@@ -45,7 +47,7 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Cats/mi11.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 
-<!-- <img src="../images/photography/Cats/xi1.png" style="width: 260px; border-radius: 8px;"> -->
+
 <div style="width: 260px;">
   <img src="../images/photography/Cats/xi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
@@ -58,9 +60,14 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 
 </div>
 
+</details>
+
 ## Landscapes
 
 ### Shenyang, Liaoning, China (The Grand Northeast is My Hometown, for real)
+
+<details style="margin: 8px 0 16px 0;">
+<summary style="cursor: pointer; font-size: 0.95em;">Show Shenyang photos</summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -71,7 +78,12 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
+</details>
+
 ### Nanjing, Jiangsu, China
+
+<details style="margin: 8px 0 16px 0;">
+<summary style="cursor: pointer; font-size: 0.95em;">Show Nanjing photos</summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -106,7 +118,12 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
+</details>
+
 ### Xinjiang, China
+
+<details style="margin: 8px 0 16px 0;">
+<summary style="cursor: pointer; font-size: 0.95em;">Show Xinjiang photos</summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -171,12 +188,18 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
+</details>
+
 ### Yunnan, China
+
+<details style="margin: 8px 0 16px 0;">
+<summary style="cursor: pointer; font-size: 0.95em;">Show Yunnan photos</summary>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Yunnan/Dali1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
+
 <div style="width: 260px;">
   <img src="../images/photography/Travel/Yunnan/Dali2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
@@ -214,3 +237,5 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
   <img src="../images/photography/Travel/Yunnan/Lijiang1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
+
+</details>
