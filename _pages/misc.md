@@ -9,9 +9,9 @@ author_profile: true
 
 More About Me
 ======
-My Chinese name is 郭家亨, pronounced as "Gwoo Jah Heng". You can call me Henry for convenience.
+My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Heng". You can call me Henry for convenience.
 
-Work Experiences (Non-academic)
+Experiences (Non-academic)
 ======
 * Fall 2025 - Present: Part-time Cook
   * Kitchen Institute of Technology

@@ -5,6 +5,7 @@ permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -17,10 +18,8 @@ Education
 
 Experience
 ======
-* Aug., 2025 - Present: Research Intern, UNITES Lab, UNC Chapel Hill
+* Sep., 2025 - Present: Research Intern, UNITES Lab, UNC Chapel Hill
   * Advisor: Prof. Tianlong Chen
-  * Working on LLM agents, AI4Healthcare, and AI4Bio projects.
-
 
 
 <!-- Skills
