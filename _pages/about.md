@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- <font color="red">🚧 THIS SITE IS <b>UNDER CONSTRUCTION</b> 🚧</font> -->
 
-I am a first-year M.S. student in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), where I am fortunate to have the opportunity to work with Professor [Tianlong Chen](https://tianlong-chen.github.io/). I received my B.Eng. degree in [Artificial Intelligence](https://ai.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/en/) in 2025.
+I am a first-year M.S. student in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), where I am fortunate to have the opportunity to work with Professor [Tianlong Chen](https://tianlong-chen.github.io/) at UNC CS. I received my B.Eng. degree in [Artificial Intelligence](https://ai.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/en/) in 2025.
 
 I am broadly interested in LLM-related topics, though most of them I have yet to explore deeply. Currently, I am working on 
 - <b>LLM Agents</b>: Building agentic systems for various applications such as power system control. 
