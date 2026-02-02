@@ -59,7 +59,7 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 
 ## Landscapes
 
-### Shenyang (The Grand Northeast is My Hometown, for real)
+### Shenyang, Liaoning, China (The Grand Northeast is My Hometown, for real)
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -70,7 +70,7 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
-### Nanjing
+### Nanjing, Jiangsu, China
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -105,7 +105,7 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
-### Xinjiang
+### Xinjiang, China
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
@@ -170,7 +170,7 @@ The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cut
 </div>
 </div>
 
-### Yunnan
+### Yunnan, China
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
