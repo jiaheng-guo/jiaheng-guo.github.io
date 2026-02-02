@@ -9,6 +9,8 @@ author_profile: true
 
 I am not a professional photographer, but I enjoy recording the fleeting moments of life. Here are some of my favorite shots.
 
+<font color="red">*Warning: the following photos are of high resolution. Loading them may consume significant memory and bandwidth.*</font>
+
 ## Cats
 
 The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cute and chubby. The white cat with blue and orange eyes, Sixi, was my friend's cat. She was clever and energetic.
