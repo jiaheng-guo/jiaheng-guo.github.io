@@ -57,7 +57,7 @@ Skills
 
 * Pet Sitting
   * Cats love ice cream
-  * I fed Lil Mi with a lot of food and she gained a lot of weight
+  * I fed Lil Mi a lot of food and she gained a lot of weight
   <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align:center;">
     <img src="../images/IMG_2843.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
@@ -81,15 +81,15 @@ Skills
   </figure>
   </div>
 
-* Games 
-  * League of Legends (ARAM main, Best Solo/Duo Performance: Gold 4, Used to be a Yasuo King but now I am old)
+* Games
+  * League of Legends (ARAM main, Best Solo/Duo Rank: Gold 4, Used to be a Yasuo King but now I am old)
   * Teamfight Tactics (Grandmaster for multiple seasons)
   * Clash of Clans (Achieved Rank #11,693 on the Chinese server)
   * Valorant (0/13 K\O)
   * PUBG: Battlegrounds (2x Winner Winner Chicken Dinner with 0 kills)
 
 * Photography
-  * I take photo during trips and daily life: [Photography page](/photography/)
+  * I take photos during trips and daily life: [photography page](/photography/)
 
 <!-- Publications
 ======
