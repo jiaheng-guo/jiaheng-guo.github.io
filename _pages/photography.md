@@ -9,7 +9,7 @@ author_profile: true
 
 I am not a professional photographer, but I enjoy recording the fleeting moments of life. Here are some of my favorite shots.
 
-<font color="red">*Warning: the following photos are of high resolution. Loading them may consume significant memory and bandwidth.*</font>
+<!-- <font color="red">*Warning: the following photos are of high resolution. Loading them may consume significant memory and bandwidth.*</font> -->
 
 ## Cats
 

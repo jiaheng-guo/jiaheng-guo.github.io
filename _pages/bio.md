@@ -14,32 +14,11 @@ Education
 * M.S. in Statistics and Data Science, University of North Carolina at Chapel Hill, 2027 (expected)
 * B.Eng. in Artificial Intelligence, Nanjing University, 2025
 
-Work experience
+
+Work Experiences
 ======
-<!-- * Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+None
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-
-* Fall 2025 - Present: Part-time Cook
-  * Kitchen Institute of Technology
-  * Duties included: Cooking for myself
-  * Supervisor: Jiaheng Guo
-
-* All Summers and Winters from 2023 to 2025: Pet Sitter Intern
-  * Guo University
-  * Duties included: Taking care of my parents' cat, Lil Mi
-  * Supervisor: My Parents
 
 Skills
 ======
@@ -50,46 +29,6 @@ Skills
 
 * C++
   * CUDA
-
-* Cooking
-  * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
-  * The Ultimate Secret: You should add more seasonings
-
-* Pet Sitting
-  * Cats love ice cream
-  * I fed Lil Mi a lot of food and she gained a lot of weight
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-  <figure style="text-align:center;">
-    <img src="../images/IMG_2843.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
-    <figcaption>Before 1</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="../images/IMG_2574.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
-    <figcaption>Before 2</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="../images/IMG_0742.png" style="width: 220px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
-    <figcaption>After 1</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="../images/IMG_1533.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
-    <figcaption>After 2</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="../images/IMG_1365.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
-    <figcaption>After 3</figcaption>
-  </figure>
-  </div>
-
-* Games
-  * League of Legends (ARAM main, Best Solo/Duo Rank: Gold 4, Used to be a Yasuo King but now I am old)
-  * Teamfight Tactics (Grandmaster for multiple seasons)
-  * Clash of Clans (Achieved Rank #11,693 on the Chinese server)
-  * Valorant (0/13 KAY/O)
-  * PUBG: Battlegrounds (2x Winner Winner Chicken Dinner with 0 kills)
-
-* Photography
-  * I take photos during trips and daily life: [photography page](/photography/)
 
 <!-- Publications
 ======
