@@ -23,7 +23,7 @@ Experiences (Non-academic)
   * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
-Skills (Non-academic) and Hobbies
+Skills (Non-academic)
 ======
 * Cooking
   * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
@@ -55,6 +55,8 @@ Skills (Non-academic) and Hobbies
   </figure>
   </div>
 
+Hobbies
+======
 * Games
   * League of Legends (ARAM main, Best Solo/Duo Rank: Gold 4, Used to be a Yasuo King but now I am old)
   * Teamfight Tactics (Grandmaster for multiple seasons)
@@ -72,3 +74,6 @@ Skills (Non-academic) and Hobbies
     * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) ft. King Princess
     * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) ft. Qing Madi
   * I enjoy legendary Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
+
+* Sports
+  * If you have similar interests, we can play together: basketball, badminton, skiing.
