@@ -9,7 +9,7 @@ author_profile: true
 
 More About Me
 ======
-My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". You can call me Henry for convenience.
+My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamiliar with Chinese names, you can call me Henry for convenience.
 
 Experiences (Non-academic)
 ======
