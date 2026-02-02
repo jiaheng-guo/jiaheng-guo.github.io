@@ -9,7 +9,7 @@ author_profile: true
 
 More About Me
 ======
-My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Heng". You can call me Henry for convenience.
+My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". You can call me Henry for convenience.
 
 Experiences (Non-academic)
 ======
@@ -23,7 +23,7 @@ Experiences (Non-academic)
   * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
-Skills (Non-academic)
+Skills (Non-academic) and Hobbies
 ======
 * Cooking
   * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
