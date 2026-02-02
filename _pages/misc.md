@@ -58,7 +58,7 @@ Skills (Non-academic)
 Hobbies
 ======
 * Games
-  * League of Legends (ARAM main, Best Solo/Duo Rank: Gold 4, Used to be a Yasuo King but now I am old)
+  * League of Legends (ARAM main, Best Solo/Duo Rank: Gold IV, Used to be a Yasuo King but now the king's old)
   * Teamfight Tactics (Grandmaster for multiple seasons)
   * Clash of Clans (Achieved Rank #11,693 on the Chinese server)
   * Valorant (0/13 KAY/O)
@@ -69,11 +69,11 @@ Hobbies
 
 * Music
   * I play the clarinet (level 10)
-  * For pop music, since I am a Riot Games fan, I truly enjoy [their music](https://www.youtube.com/@riotgamesmusic/videos). Some of my favorites are
+  * Since I am a Riot Games fan, I truly enjoy [their music](https://www.youtube.com/@riotgamesmusic/videos). Some of my favorites are
     * [His Name is Sahn-Uzal](https://www.youtube.com/watch?v=V-iBklZUq-k&t=3) ft. Radik Tyulyush
     * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) ft. King Princess
     * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) ft. Qing Madi
-  * I enjoy legendary Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
-
+  * I enjoy heroic Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
+<!-- 
 * Sports
-  * If you have similar interests, we can play together: basketball, badminton, skiing.
+  * If you have similar interests, we can play together: basketball, badminton, skiing. -->
