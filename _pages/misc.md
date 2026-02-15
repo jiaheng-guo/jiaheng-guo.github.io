@@ -11,7 +11,7 @@ More About Me
 ======
 My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamiliar with Chinese names, you can call me Henry for convenience.
 
-Experiences
+Non-academic Experience
 ======
 * Fall 2025 - Present: Part-time Cook
   * Kitchen Institute of Technology
@@ -23,7 +23,7 @@ Experiences
   * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
-Skills
+Extracurricular Skills
 ======
 * Cooking
   * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
@@ -69,8 +69,8 @@ Hobbies
 
 * Music
   * I play the clarinet (level 10)
-  * Since I am a Riot Games fan, I truly enjoy [their music](https://www.youtube.com/@riotgamesmusic/videos). Some of my favorites are
+  * Since I am a Riot Games fan, I truly enjoy their music. Some of my favorites are
     * [His Name is Sahn-Uzal](https://www.youtube.com/watch?v=V-iBklZUq-k&t=3) ft. Radik Tyulyush
     * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) ft. King Princess
     * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) ft. Qing Madi
-  * I enjoy heroic Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
+  * I really enjoy heroic Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
