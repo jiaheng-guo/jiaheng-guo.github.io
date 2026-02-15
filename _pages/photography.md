@@ -11,7 +11,7 @@ I am not a professional photographer, but I enjoy recording the fleeting moments
 
 ## Cats
 
-The silver shaded British Shorthair cat, Lil Mi,  is my parents' pet. She is cute and chubby. The white cat with blue and orange eyes, Sixi, was my friend's cat. She was clever and energetic.
+The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby. The old-eyed white cat, Sixi, was my friend's cat. She was clever and energetic.
 
 <details style="margin: 8px 0 16px 0;">
 <summary style="cursor: pointer; font-size: 0.95em;">Show cat photos</summary>
