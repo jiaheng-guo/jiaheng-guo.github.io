@@ -3,13 +3,13 @@
 # have yet -- uncomment as they become real. An entry left with a placeholder
 # value renders a dead icon, which looks worse than having no icon at all.
 email: jiaheng@unc.edu
+scholar_userid: nC_o0pMAAAAJ
 github_username: jiaheng-guo
 linkedin_username: jiaheng-guo-105a5824a
 # rss_icon: jekyll-socials tests whether this key EXISTS, not whether it is
 # true -- `rss_icon: false` still renders the icon. It must stay commented out.
 # Uncomment once there are real blog posts for a feed to point at.
 
-# scholar_userid: # your Google Scholar ID, once you have publications indexed
 # orcid_id: # your ORCID iD
 # x_username: # your X / Twitter handle
 # cv_pdf: cv.pdf # drop the file in assets/pdf/ and uncomment to show a CV download button
