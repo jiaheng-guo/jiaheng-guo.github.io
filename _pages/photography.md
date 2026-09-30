@@ -3,6 +3,7 @@ layout: page
 title: photography
 permalink: /photography/
 nav: true
+published: false # Kept in the repo but not published to the site.
 nav_order: 5
 ---
 I am not a professional photographer, but I enjoy recording the fleeting moments of life. Here are some of my favorite shots.
