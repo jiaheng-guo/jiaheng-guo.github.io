@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 ## More About Me
-My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamiliar with Chinese names, you can call me Henry for convenience.
+My Chinese name is 郭家亨.
 
 ## Non-academic Experience
 * Fall 2025 - Present: Part-time Cook
@@ -50,21 +50,17 @@ My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamilia
   </figure>
   </div>
 
-## Hobbies
 * Games
-  * League of Legends (ARAM main, Best Solo/Duo Rank: Gold IV, Used to be a Yasuo King but now the king's old)
-  * Teamfight Tactics (Grandmaster for multiple seasons)
-  * Clash of Clans (Achieved Rank #11,693 on the Chinese server)
-  * Valorant (0/13 KAY/O)
+  * League of Legends (ARAM main, Best Solo/Duo Rank: Silver IV, Used to be a Yasuo King)
   * PUBG: Battlegrounds (2x Winner Winner Chicken Dinner with 0 kills)
 
-* Photography
-  * I take photos during trips and daily life: [photography page](/photography/)
+<!-- * Photography
+  * I take photos during trips and daily life: [photography page](/photography/) -->
 
-* Music
+<!-- * Music
   * I play the clarinet (level 10)
   * Since I am a Riot Games fan, I truly enjoy their music. Some of my favorites are
     * [His Name is Sahn-Uzal](https://www.youtube.com/watch?v=V-iBklZUq-k&t=3) ft. Radik Tyulyush
     * [Fantastic](https://www.youtube.com/watch?v=t9mpyRzipww&list=RDt9mpyRzipww&start_radio=1) ft. King Princess
     * [EGO](https://www.youtube.com/watch?v=jAj_nbWYb7g&list=RDjAj_nbWYb7g&start_radio=1) ft. Qing Madi
-  * I really enjoy heroic Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc.
+  * I really enjoy heroic Chinese songs such as 定军山(屠洪刚), 江山(马德钟), etc. -->
