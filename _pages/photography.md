@@ -1,12 +1,10 @@
 ---
-layout: archive
-title: "Photography"
+layout: page
+title: photography
 permalink: /photography/
-author_profile: true
+nav: true
+nav_order: 5
 ---
-
-{% include base_path %}
-
 I am not a professional photographer, but I enjoy recording the fleeting moments of life. Here are some of my favorite shots.
 
 ## Cats
@@ -19,43 +17,43 @@ The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mixi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mixi1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi6.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi6.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi7.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi7.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi8.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi8.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/mi11.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/mi11.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 
 
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/xi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/xi2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/xi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/xi3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Cats/xi5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Cats/xi5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 
 </div>
@@ -71,10 +69,10 @@ The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Shenyang/SY1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Shenyang/SY1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Shenyang/SY2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Shenyang/SY2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
 
@@ -87,34 +85,34 @@ The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJ3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJ3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU4.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU6.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU6.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU7.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU7.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU8.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU8.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Nanjing/NJU9.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Nanjing/NJU9.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
 
@@ -127,64 +125,64 @@ The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay4.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay7.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay7.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay9.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay9.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay10.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay10.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay11.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay11.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay13.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay13.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Altay12.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Altay12.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Koktokay2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Koktokay2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Urumqi3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Urumqi3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Koktokay3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Koktokay3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Sayram1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Sayram1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Sayram2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Sayram2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Sayram3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Sayram3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Sayram4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Sayram4.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Sayram5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Sayram5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Urumqi1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Urumqi1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Xinjiang/Urumqi2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Xinjiang/Urumqi2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
 
@@ -197,44 +195,44 @@ The silver British Shorthair, Lil Mi, is my parents' pet. She is cute and chubby
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: flex-start;">
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Dali1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Dali1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Dali2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Dali2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Hutiaoxia1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Hutiaoxia1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/JadeDragonMt1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/JadeDragonMt1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/JadeDragonMt2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/JadeDragonMt2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/JadeDragonMt3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/JadeDragonMt3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/JadeDragonMt4.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/JadeDragonMt4.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/JadeDragonMt5.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/JadeDragonMt5.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Kunming1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Kunming1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Shangri-La1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Shangri-La1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Shangri-La2.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Shangri-La2.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Shangri-La3.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Shangri-La3.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 <div style="width: 260px;">
-  <img src="../images/photography/Travel/Yunnan/Lijiang1.png" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
+  <img src="/assets/img/photography/Travel/Yunnan/Lijiang1.jpg" style="width: 100%; height: auto; border-radius: 8px; display: block; object-fit: contain;">
 </div>
 </div>
 

@@ -1,18 +1,14 @@
 ---
-layout: archive
-title: ""
+layout: page
+title: misc
 permalink: /misc/
-author_profile: true
+nav: true
+nav_order: 4
 ---
-
-{% include base_path %}
-
-More About Me
-======
+## More About Me
 My Chinese name is 郭家亨, pronounced as "Gwoh-Jah-Hen". If you are unfamiliar with Chinese names, you can call me Henry for convenience.
 
-Non-academic Experience
-======
+## Non-academic Experience
 * Fall 2025 - Present: Part-time Cook
   * Kitchen Institute of Technology
   * Duties included: Cooking for myself
@@ -23,8 +19,7 @@ Non-academic Experience
   * Duties included: Taking care of my parents' cat, Lil Mi
   * Supervisor: My Parents
 
-Extracurricular Skills
-======
+## Extracurricular Skills
 * Cooking
   * Baked potato, Beef with tomato, Scrambled eggs, Baorou Guo (failed), Soy-sauce-fried rice with egg n corn n tomato n beans n pepper n sausage n ground beef, etc.
   * The Ultimate Secret: You should add more seasonings
@@ -34,29 +29,28 @@ Extracurricular Skills
   * I fed Lil Mi a lot of food and she gained a lot of weight
   <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
   <figure style="text-align:center;">
-    <img src="../images/IMG_2843.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="/assets/img/IMG_2843.jpg" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>Before 1</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_2574.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="/assets/img/IMG_2574.jpg" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>Before 2</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_0742.png" style="width: 220px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="/assets/img/IMG_0742.jpg" style="width: 220px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 1</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_1533.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="/assets/img/IMG_1533.jpg" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 2</figcaption>
   </figure>
   <figure style="text-align:center;">
-    <img src="../images/IMG_1365.png" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
+    <img src="/assets/img/IMG_1365.jpg" style="width: 160px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px;">
     <figcaption>After 3</figcaption>
   </figure>
   </div>
 
-Hobbies
-======
+## Hobbies
 * Games
   * League of Legends (ARAM main, Best Solo/Duo Rank: Gold IV, Used to be a Yasuo King but now the king's old)
   * Teamfight Tactics (Grandmaster for multiple seasons)
